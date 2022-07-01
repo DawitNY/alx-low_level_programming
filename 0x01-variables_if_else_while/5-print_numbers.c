@@ -1,7 +1,8 @@
 #include <stdlib.h>                                                                                                                             
 #include <time.h>                                                                                                                               
 #include <stdio.h>                                                                                                                              
-/**                                                                     **main -> run a loop                                                   **use loop to output hexadecimal                                       **Return: 0                                                           **/ 
+/**                                                                     **main -> run a loop                                                 ***  
+ **use loop to output hexadecimal                                       **Return: 0                                                           **/ 
                                                                                                                                                 
 int main(void){                                                              
 	int c;                                                                              
