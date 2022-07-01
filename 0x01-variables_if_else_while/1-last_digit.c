@@ -10,23 +10,25 @@
 
 int main(void)
 {
-		int n;
+int n;
 
-			srand(time(0));
-				n = rand() - RAND_MAX / 2;
-				    int i = abs(n % 10);
-				        
-				        printf("Last digit of %d is ",n);
-					    
-					    if (i > 5) {                                                                     printf ("greater than 5");}                                                                               
-					    else if (i == 0)  {                                                              
-						            printf("0");                                                
-					    }                                                                                
-					    else {                                                                           
-						            printf("less than 6 not 0");                                            
-					    }                           
-					        
-					    return (0);   
+srand(time(0));
+n = rand() - RAND_MAX / 2;
+int i = abs(n % 10);
+printf("Last digit of %d is ",n);
+if (i > 5)
+{
+	printf ("greater than 5");
+}                                                                             
+else if (i == 0) 
+{              
+	printf("0");                                                
+}                                                                                
+else 
+{                                                                           
+	printf("less than 6 not 0");                                           
+}                          
+return (0);   
 }
 
            
