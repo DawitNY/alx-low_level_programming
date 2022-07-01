@@ -15,10 +15,12 @@ int main(void){
 	for (c='0'; c<= '8'; ++c)
 	{                                                   	 
 			putchar (c);
-				putchar (' ');
-					putchar (',');
+			    putchar (',');
+			        putchar(' ');
 	}
-	puts (" 9$");                                                                                                                                 
+
+	putchar ('9');
+	                                                
 	return 0;                                                                                                                                       
 }   
 
