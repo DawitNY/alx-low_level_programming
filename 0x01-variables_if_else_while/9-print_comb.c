@@ -19,7 +19,7 @@ int main(void){
 			        putchar(' ');
 	}
 
-	puts ("9 ");
+	puts ("9");
 	                                                
 	return 0;                                                                                                                                       
 }   
