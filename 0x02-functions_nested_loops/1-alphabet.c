@@ -3,7 +3,10 @@
 /**
  * print_alaphabet
  * return 0
+ *
  */
+
+/* Printing the alphabets */
 
 void print_alphabet(void)
 {
