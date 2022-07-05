@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_alaphabet
- * return 0
+ *print_alaphabet
+ *return 0
  *
  */
 
