@@ -19,7 +19,7 @@ void times_table(void)
 			_putchar(32);
 			if (count <= 9)
 			{
-				_putchar(44);
+				_putchar(32);
 				_putchar(count + 48);
 			}
 			else
