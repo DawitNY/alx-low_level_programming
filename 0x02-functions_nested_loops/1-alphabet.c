@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- *main: print the output of the alphabet
+ *print_alphabet - print a-z
  *
- *return 0
+ *return void
+ *
  *
  */
 void print_alphabet(void)
