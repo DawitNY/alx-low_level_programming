@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- *_isalpha checks for alpha
+ * _isalpha - checks for alpha
  *
- *@c: checker
+ * @c: checker
  *
- *
- *returns 0 or 1
+ * Return: Always 1 for letter, 0 for  rest
  */
 int _isalpha(int c)
 {
