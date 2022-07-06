@@ -5,7 +5,7 @@
  *
  * @n: parameter
  *
- * return: absolute of a number
+ * Return: absolute of a number
  */
 int _abs(int n)
 {
