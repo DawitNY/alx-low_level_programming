@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- *  print alphabet -. prints lowercase
+ *print_alphabet_x10 - prints lowercase
+ *
+ *retun void
+ *
  */
-
 void print_alphabet_x10(void)
 {
 	int i;
