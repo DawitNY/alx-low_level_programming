@@ -14,7 +14,7 @@ void times_table(void)
 		_putchar(48);
 		for (j = 1; j <= 9; j++)
 		{
-			count = i*j;
+			count = i * j;
 			_putchar(44);
 			_putchar(32);
 			if (count <= 9)
@@ -31,4 +31,3 @@ void times_table(void)
 		_putchar('\n');
 	}
 }
-				
