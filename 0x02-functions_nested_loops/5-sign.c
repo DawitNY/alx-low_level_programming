@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * print sign of number
- * @i number variable
+ * print_sign -sign of number
  *
- * returns 1,0,-1
+ * @n: number variable
+ *
+ * Return: 1,0,-1
  */
 int print_sign(int n)
 {
