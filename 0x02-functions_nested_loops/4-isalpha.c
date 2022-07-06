@@ -2,7 +2,9 @@
 
 /**
  * _isalpha checks for alpha
+ *
  * @c: checker
+ *
  * returns 0 or 1
  */
 int _isalpha(int c)
