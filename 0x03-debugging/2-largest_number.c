@@ -5,7 +5,7 @@
  *
  * @a: first
  * @b: second
- * @c :third
+ * @c: third
  *
  * Return: Largest number
  */
