@@ -3,7 +3,7 @@
 /**
  * print_diagonal - n  lines
  *
- * @n: time 
+ * @n: time
  *
  * Return: void
  */
@@ -11,7 +11,7 @@ void print_diagonal(int n)
 {
 	int i, j;
 
-	for(i = 0; i < n; i++)
+	for (i = 0; i < n; i++)
 	{
 		for (j = 0; j < 1; j++)
 		{
