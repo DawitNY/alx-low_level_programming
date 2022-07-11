@@ -16,7 +16,7 @@ void puts2(char *str)
 			_putchar('\n');
 			break;
 		}
-		if (tint % 2 ==  0)
+		if (tint % 2 == 0)
 			_putchar(str[tint]);
 		tint++;
 	}
