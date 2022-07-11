@@ -18,6 +18,6 @@ void puts2(char *str)
 		}
 		if (tint % 2 ==  0)
 			_putchar(str[tint]);
-		tint ++;
+		tint++;
 	}
 }
