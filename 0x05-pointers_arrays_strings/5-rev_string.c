@@ -2,10 +2,10 @@
 
 /**
  * rev_string - string reversely
- * @s: string 
+ * @s: string
  * Return: void
  */
-void rev_string(char *s)	
+void rev_string(char *s)
 {
 	int revc = 0;
 	int i, j;
