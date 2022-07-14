@@ -19,7 +19,7 @@ char *_strcat(char *dest, char *src)
 	while (c2 >= 0)
 	{
 		*(dest + c1) = *(src + c2);
-		if (*src + c2) == '\0')
+		if (*(src + c2) == '\0')
 			break;
 		c1++;
 		c2++;
