@@ -1,4 +1,4 @@
-#incude "main.h"
+#include "main.h"
 
 /**
  * prefun - sqrt of num
@@ -8,7 +8,7 @@
  */
 int prefun(int i, int j)
 {
-	f (j % (i / j) == 0)
+	if (j % (i / j) == 0)
 	{
 		if (j * (i / j) == i)
 			return (j);
@@ -29,5 +29,5 @@ int _sqrt_recursion(int n)
 		return (0);
 	if(n == 1)
 		return (1);
-	return (helper(n, 2));
+	return (prefun(n, 2));
 }
